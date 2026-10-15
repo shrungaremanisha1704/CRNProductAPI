@@ -1,0 +1,13 @@
+To: hr@crntechnosoft.com
+Subject: CRN Technical Assessment Complete Successfully
+
+Dear Harshad Sir,
+
+I have completed the CRN Technical Assessment. Please find the public GitHub repository link below and the attached screenshot of the application running locally.
+
+GitHub Repository: [PASTE YOUR PUBLIC REPOSITORY LINK HERE]
+
+Thank you for your time and consideration.
+
+Best regards,
+Manisha

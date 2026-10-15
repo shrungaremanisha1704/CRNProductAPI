@@ -1,0 +1,20 @@
+# Build files
+
+bin/
+obj/
+
+# Visual Studio files
+
+.vs/
+*.user
+*.suo
+
+# Environment files and secrets
+
+.env
+.env.*
+secrets.json
+
+# Logs
+
+*.log
